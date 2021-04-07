@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshitaG-2002IGK
-- 👀 I’m interested in learning newer technological aspects,frontend,web development. I have prior knowledge regarding python and C++.
-- 🌱 I’m currently learning python and planning to learn c language
+- 👀 I’m interested in learning newer technologies ,frontend , web development. I have prior knowledge in python and C++.
+- 🌱 I’m currently doing a few courses on python and website development, and in the process of starting programming in C.
 - 💞️ I’m looking to collaborate on projects that interests me.
 
 <!---
