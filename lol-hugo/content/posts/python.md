@@ -1,8 +1,11 @@
 ---
-title: "Python"
+title: "Secret Challenge"
 date: 2021-06-28T20:59:43+05:30
 draft: false
 ---
-Python is a 1000 times better than Java !:)))
 
-yoyo honey singh!!!
+**Day 1 of #SecretChallenge**
+Deadline : 30th June , 8:30 PM IST
+Completed : 10 %
+Time left : 45.5 Hrs 
+Feeling : Excited, keen on finishing it before the deadline (fingers crossed ) and also diving deep into the world of "Secrets"
