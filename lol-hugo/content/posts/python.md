@@ -29,7 +29,7 @@ Feelings : A tad bit relieved to find out the similarities in the topics of rese
 
 Deadline : 30th June - 8:30 PM IST
 
-Completed : 55 %
+Completed : 100 %
 
 Time left : 2 Hrs 
 
